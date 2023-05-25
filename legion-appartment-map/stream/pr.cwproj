@@ -1,0 +1,41 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>ol_new_apart_01.ymap</Item>
+    <Item>ol_new_apart_02.ymap</Item>
+    <Item>ol_new_apart_03.ymap</Item>
+    <Item>ol_new_apart_04.ymap</Item>
+    <Item>ol_new_apart_05.ymap</Item>
+    <Item>ol_new_apart_06.ymap</Item>
+    <Item>ol_new_apart_07.ymap</Item>
+    <Item>ol_new_apart_08.ymap</Item>
+    <Item>ol_new_apart_09.ymap</Item>
+    <Item>ol_new_apart_10.ymap</Item>
+    <Item>ol_new_apart_11.ymap</Item>
+    <Item>ol_new_apart_12.ymap</Item>
+    <Item>ol_new_apart_13.ymap</Item>
+    <Item>ol_new_apart_14.ymap</Item>
+    <Item>ol_new_apart_15.ymap</Item>
+    <Item>ol_new_apart_16.ymap</Item>
+    <Item>ol_new_apart_17.ymap</Item>
+    <Item>ol_new_apart_18.ymap</Item>
+    <Item>ol_new_apart_19.ymap</Item>
+    <Item>ol_new_apart_20.ymap</Item>
+    <Item>ol_new_apart_21.ymap</Item>
+    <Item>hei_dt1_occl_04.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>ol_apart_new.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
